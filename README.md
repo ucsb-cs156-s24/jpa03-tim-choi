@@ -1,4 +1,4 @@
-# jap03-tim-choi
+# jpa03-tim-choi
 
 Running at: <https://jpa03-tim-choi.dokku-03.cs.ucsb.edu>
 
